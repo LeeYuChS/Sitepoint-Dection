@@ -160,23 +160,19 @@ NEZYOLO-main/
 
 ## Images process:
 
-[RGB]
 <img src="image_process_RGB.png" alt="Original image" width="300">
 
-[Gray]
 <img src="image_process_Gray.png" alt="Gray" width="300">
 
-[Erode]
 <img src="image_process_Erode.png" alt="Erode process" width="300">
 
-[Open]
 <img src="image_process_Open.png" alt="Open process" width="300">
 
 
 ## Example of YOLO detection results from the GUI:
 
-[YOLO Detection Example]
 <img src="gui-sample.PNG" alt="YOLO Detection Example" width="500">
+
 
 
 

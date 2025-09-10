@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\20250711_backup\\Intern\\GIS\\Project\\YOLO-Miaoli\\Miaoli-WebForm-OCR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F287412-1536-4C8E-BD38-AB98454C0BFC}|Miaoli-WebForm-OCR\\Miaoli-WebForm-OCR.csproj|f:\\20250711_backup\\intern\\gis\\project\\yolo-miaoli\\miaoli-webform-ocr\\miaoli-webform-ocr\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2F287412-1536-4C8E-BD38-AB98454C0BFC}|Miaoli-WebForm-OCR\\Miaoli-WebForm-OCR.csproj|solutionrelative:miaoli-webform-ocr\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F287412-1536-4C8E-BD38-AB98454C0BFC}|Miaoli-WebForm-OCR\\Miaoli-WebForm-OCR.csproj|F:\\20250711_backup\\Intern\\GIS\\Project\\YOLO-Miaoli\\Miaoli-WebForm-OCR\\miaoli-webform-ocr\\maioli-webform-ocr.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F287412-1536-4C8E-BD38-AB98454C0BFC}|Miaoli-WebForm-OCR\\Miaoli-WebForm-OCR.csproj|solutionrelative:miaoli-webform-ocr\\maioli-webform-ocr.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F287412-1536-4C8E-BD38-AB98454C0BFC}|Miaoli-WebForm-OCR\\Miaoli-WebForm-OCR.csproj|F:\\20250711_backup\\Intern\\GIS\\Project\\YOLO-Miaoli\\Miaoli-WebForm-OCR\\miaoli-webform-ocr\\maioli-webform-ocr.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2F287412-1536-4C8E-BD38-AB98454C0BFC}|Miaoli-WebForm-OCR\\Miaoli-WebForm-OCR.csproj|solutionrelative:miaoli-webform-ocr\\maioli-webform-ocr.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "F:\\20250711_backup\\Intern\\GIS\\Project\\YOLO-Miaoli\\Miaoli-WebForm-OCR\\Miaoli-WebForm-OCR\\Web.config",
+              "RelativeDocumentMoniker": "Miaoli-WebForm-OCR\\Web.config",
+              "ToolTip": "F:\\20250711_backup\\Intern\\GIS\\Project\\YOLO-Miaoli\\Miaoli-WebForm-OCR\\Miaoli-WebForm-OCR\\Web.config",
+              "RelativeToolTip": "Miaoli-WebForm-OCR\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAACIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-09-02T06:30:49.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Maioli-WebForm-OCR.aspx.cs",
+              "DocumentMoniker": "F:\\20250711_backup\\Intern\\GIS\\Project\\YOLO-Miaoli\\Miaoli-WebForm-OCR\\Miaoli-WebForm-OCR\\Maioli-WebForm-OCR.aspx.cs",
+              "RelativeDocumentMoniker": "Miaoli-WebForm-OCR\\Maioli-WebForm-OCR.aspx.cs",
+              "ToolTip": "F:\\20250711_backup\\Intern\\GIS\\Project\\YOLO-Miaoli\\Miaoli-WebForm-OCR\\Miaoli-WebForm-OCR\\Maioli-WebForm-OCR.aspx.cs",
+              "RelativeToolTip": "Miaoli-WebForm-OCR\\Maioli-WebForm-OCR.aspx.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAMwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T06:29:29.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Maioli-WebForm-OCR.aspx",
+              "DocumentMoniker": "F:\\20250711_backup\\Intern\\GIS\\Project\\YOLO-Miaoli\\Miaoli-WebForm-OCR\\Miaoli-WebForm-OCR\\Maioli-WebForm-OCR.aspx",
+              "RelativeDocumentMoniker": "Miaoli-WebForm-OCR\\Maioli-WebForm-OCR.aspx",
+              "ToolTip": "F:\\20250711_backup\\Intern\\GIS\\Project\\YOLO-Miaoli\\Miaoli-WebForm-OCR\\Miaoli-WebForm-OCR\\Maioli-WebForm-OCR.aspx",
+              "RelativeToolTip": "Miaoli-WebForm-OCR\\Maioli-WebForm-OCR.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-02T06:29:06.887Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

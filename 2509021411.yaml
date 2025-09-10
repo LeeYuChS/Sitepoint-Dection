@@ -1,0 +1,8 @@
+train: D:/NEZProject/NEZYOLO/YOLO-Miaoli/Type4_datasets/images/train
+val: D:/NEZProject/NEZYOLO/YOLO-Miaoli/Type4_datasets/images/val
+nc: 4
+names:
+- E
+- N
+- PointName
+- Z

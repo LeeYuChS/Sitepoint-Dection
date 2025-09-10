@@ -158,13 +158,18 @@ NEZYOLO-main/
 
 ## Demo Results
 
+<<<<<<< HEAD
 ### Images process:
+=======
+## Images process:
+>>>>>>> 838df1018cc3a9b286b0b2fd77bf22fe2424779d
 
 <img src="image_process_RGB.png" alt="Original image" width="300">
 
 <img src="image_process_Gray.png" alt="Gray" width="300">
 
 <img src="image_process_Erode.png" alt="Erode process" width="300">
+<<<<<<< HEAD
 
 <img src="image_process_Open.png" alt="Open process" width="300">
 
@@ -177,3 +182,17 @@ NEZYOLO-main/
 ### Example of OCR results from the Web:
 
 <img src="OCR_result.png" alt="OCR Example" width="500">
+=======
+
+<img src="image_process_Open.png" alt="Open process" width="300">
+
+
+## Example of YOLO detection results from the GUI:
+
+<img src="gui-sample.PNG" alt="YOLO Detection Example" width="500">
+
+
+
+
+
+>>>>>>> 838df1018cc3a9b286b0b2fd77bf22fe2424779d

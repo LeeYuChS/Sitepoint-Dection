@@ -158,7 +158,7 @@ NEZYOLO-main/
 
 ## Demo Results
 
-# Images process:
+## Images process:
 
 [RGB]
 <img src="image_process_RGB.png" alt="Original image" width="300">
@@ -173,12 +173,11 @@ NEZYOLO-main/
 <img src="image_process_Open.png" alt="Open process" width="300">
 
 
-# Example of YOLO detection results from the GUI:
+## Example of YOLO detection results from the GUI:
 
-![YOLO Detection Example]
+[YOLO Detection Example]
 <img src="gui-sample.PNG" alt="YOLO Detection Example" width="500">
 
-<!-- If you want to adjust size -->
-<!-- <img src="results/gui_samples/sample1.jpg" alt="YOLO Detection Example" width="500"> -->
+
 
 
